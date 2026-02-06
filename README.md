@@ -5,6 +5,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+Adam Shin: https://github.com/aus2003
 
 ## Stakeholders
 
@@ -12,7 +13,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+The Product will increase students' knowledge of study spaces around NYU's campus, allowing them to explore more confidently and broaden their experience.
 
 ## User Requirements
 
