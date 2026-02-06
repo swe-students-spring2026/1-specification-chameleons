@@ -5,11 +5,29 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
-Adam Shin: https://github.com/aus2003
+- Adam Shin: https://github.com/aus2003
+- Cary Ho: https://github.com/CakeOfThePans
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+### Stakeholder(s)
+NYU Students
+- Studies on campus multiple times per week
+- Studies independently or in groups
+- Moves between different buildings depending on their schedule
+- Has specific needs for a study location such as temperature and seating conditions
+
+### Goals/Needs
+- Find study locations that fit specific needs (quiet, temperature, outlets, seating)
+- Avoid crowded or unusable study spaces
+- Compare study spots based on other students' feedback
+- Discover new study locations on campus
+
+### Problems/Frustrations
+- Popular study locations are often overcrowded, especially during midterms or finals
+- Unaware of alternative or lesser-known study locations during busy or peak hours
+- There’s no centralized platform to see honest, up-to-date reviews of NYU study locations
+- Hard to know if a space is quiet, has outlets, or has comfortable seating until arriving
 
 ## Product Vision Statement
 
