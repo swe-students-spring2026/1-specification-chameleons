@@ -8,6 +8,7 @@ See instructions. Delete this line and replace with a list of the names of your 
 - Adam Shin: https://github.com/aus2003
 - Cary Ho: https://github.com/CakeOfThePans
 - Calvin Pun: https://github.com/CalvinPun
+- Qingyue Zhu: https://github.com/Kairiszqy
 
 ## Stakeholders
 
@@ -61,7 +62,7 @@ The Product will increase students' knowledge of study spaces around NYU's campu
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+https://www.figma.com/design/OkGcVjCnbapdhi0hO56Efv/Chameleons_activitydiagram?node-id=0-1&t=6o8S6tbHxsitQpW7-1
 
 ## Clickable Prototype
 
