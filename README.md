@@ -59,6 +59,17 @@ The Product will increase students' knowledge of study spaces around NYU's campu
 - As an admin, I want to view analytics on study space usage so that I can identify trends and problem areas.
 - As an admin, I want to send updates or alerts about temporary closures or changes so that students are informed in advance.
 
+### Faculty
+- As a faculty member, I want to recommend study spaces to my students so that they have reliable options for independent learning.
+- As a faculty member, I want to see student usage patterns of study spaces so that I can adjust office hours or class assignments accordingly.
+- As a faculty member, I want to provide feedback on study space conditions so that the app maintains accurate and helpful information.
+- As a faculty member, I want to notify students of temporary study space closures due to events or maintenance so that they can plan alternative locations.
+- As a faculty member, I want to suggest improvements to underutilized spaces so that the campus environment better supports student learning.
+- As a faculty member, I want to integrate study space recommendations into my course materials so that students have easy access to the app.
+- As a faculty member, I want to track which spaces are most effective for group vs. individual work so that I can advise students appropriately.
+- As a faculty member, I want to highlight spaces suitable for students with accessibility needs so that all students can find usable locations.
+- As a faculty member, I want to encourage safe usage of study spaces during peak hours so that students are not overcrowded.
+- As a faculty member, I want to leave notes on study spaces that inform students of etiquette or quiet zones so that a productive environment is maintained.
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
