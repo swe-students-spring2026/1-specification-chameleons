@@ -5,10 +5,10 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
-- Adam Shin: https://github.com/aus2003
-- Cary Ho: https://github.com/CakeOfThePans
-- Calvin Pun: https://github.com/CalvinPun
-- Qingyue Zhu: https://github.com/Kairiszqy
+- Adam Shin: [GitHub](https://github.com/aus2003)
+- Cary Ho: [GitHub](https://github.com/CakeOfThePans)
+- Calvin Pun: [GitHub](https://github.com/CalvinPun)
+- Qingyue Zhu: [GitHub](https://github.com/Kairiszqy)
 
 ## Stakeholders
 
@@ -98,19 +98,19 @@ The Product will increase students' knowledge of study spaces around NYU's campu
 - As an admin, I want to send updates or alerts about temporary closures or changes so that students are informed in advance.
 
 ### Faculty
-- As a faculty member, I want to recommend study spaces to my students so that they have reliable options for independent learning.
-- As a faculty member, I want to see student usage patterns of study spaces so that I can adjust office hours or class assignments accordingly.
-- As a faculty member, I want to provide feedback on study space conditions so that the app maintains accurate and helpful information.
-- As a faculty member, I want to notify students of temporary study space closures due to events or maintenance so that they can plan alternative locations.
-- As a faculty member, I want to suggest improvements to underutilized spaces so that the campus environment better supports student learning.
-- As a faculty member, I want to integrate study space recommendations into my course materials so that students have easy access to the app.
-- As a faculty member, I want to track which spaces are most effective for group vs. individual work so that I can advise students appropriately.
-- As a faculty member, I want to highlight spaces suitable for students with accessibility needs so that all students can find usable locations.
-- As a faculty member, I want to encourage safe usage of study spaces during peak hours so that students are not overcrowded.
-- As a faculty member, I want to leave notes on study spaces that inform students of etiquette or quiet zones so that a productive environment is maintained.
+- As a faculty member, I want to know which study spaces are quiet and reliable so that I can recommend them to students for focused work.
+- As a faculty member, I want to see student feedback and ratings on study spaces so that I can guide students toward the best locations.
+- As a faculty member, I want to identify trends in student study habits so that I can adjust my recommendations accordingly.
+- As a faculty member, I want to report maintenance or facility issues I observe in study locations so that they are resolved promptly.
+- As a faculty member, I want to filter study locations based on amenities like windows, outlets, or seating so that I can recommend spaces that meet student needs.
+- As a faculty member, I want to get notifications when popular study spaces are overcrowded or unavailable so that I can advise students to avoid them.
+- As a faculty member, I want to compare different study locations side by side so that I can make informed recommendations for different student needs.
+- As a faculty member, I want to share curated lists of study spaces for my classes or student groups so that students can quickly find suitable options.
+- As a faculty member, I want to see analytics on study space usage over time so that I can understand patterns and provide better guidance.
+- As a faculty member, I want to integrate student feedback into discussions about campus facilities so that improvements reflect real student needs.
 ## Activity Diagrams
 
-https://www.figma.com/design/OkGcVjCnbapdhi0hO56Efv/Chameleons_activitydiagram?node-id=0-1&t=6o8S6tbHxsitQpW7-1
+[Activity Diagram](https://www.figma.com/design/OkGcVjCnbapdhi0hO56Efv/Chameleons_activitydiagram?node-id=0-1&t=6o8S6tbHxsitQpW7-1)
 
 ## Clickable Prototype
 
