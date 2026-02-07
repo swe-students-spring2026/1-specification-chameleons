@@ -12,24 +12,61 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 ## Stakeholders
 
-### Stakeholder(s)
-NYU Students
+### NYU Students
 - Studies on campus multiple times per week
 - Studies independently or in groups
 - Moves between different buildings depending on their schedule
 - Has specific needs for a study location such as temperature and seating conditions
 
-### Goals/Needs
-- Find study locations that fit specific needs (quiet, temperature, outlets, seating)
-- Avoid crowded or unusable study spaces
-- Compare study spots based on other students' feedback
-- Discover new study locations on campus
+**Goals/Needs**
+1. Find study locations that fit specific needs (quiet, temperature, outlets, seating)
+2. Avoid crowded or unusable study spaces
+3. Compare study spots based on other students' feedback
+4. Discover new study locations on campus
 
-### Problems/Frustrations
-- Popular study locations are often overcrowded, especially during midterms or finals
-- Unaware of alternative or lesser-known study locations during busy or peak hours
-- There’s no centralized platform to see honest, up-to-date reviews of NYU study locations
-- Hard to know if a space is quiet, has outlets, or has comfortable seating until arriving
+**Problems/Frustrations**
+1. Popular study locations are often overcrowded, especially during midterms or finals
+2. Unaware of alternative or lesser-known study locations during busy or peak hours
+3. There’s no centralized platform to see honest, up-to-date reviews of NYU study locations
+4. Hard to know if a space is quiet, has outlets, or has comfortable seating until arriving
+
+---
+
+### NYU Faculty
+- Oversee campus facilities
+- Responsible for maintenance, space allocation, and improvements
+- Interact with students in learning environments
+
+**Goals / Needs**
+1. Identify quiet and reliable spaces for academic work for their students
+2. Recommend appropriate study locations to students  
+3. Stay informed about the quality and availability of study spaces  
+4. Use student and faculty feedback to prioritize improvements 
+
+**Problems / Frustrations**
+1. Overcrowded or noisy study areas disrupt academic work for their students
+2. Limited visibility into student experiences across different study locations  
+3. Difficulty identifying which study spaces best support focused work  
+4. Challenges in balancing limited resources with high student demand  
+
+---
+
+### Administrators
+- Manage and maintain the study location platform  
+- Moderate user-generated content and reviews  
+- Update study location information and media  
+
+**Goals / Needs**
+1. Maintain accurate and up-to-date study location data  
+2. Moderate reviews to ensure quality and appropriateness  
+3. View analytics on usage, ratings, and engagement  
+4. Identify trends or problem areas based on user feedback  
+
+**Problems / Frustrations**
+1. Inconsistent or outdated study location information  
+2. Limited tools for analyzing user feedback and platform usage  
+3. Limited ability to compare trends across different study locations
+4. Difficulty sharing updates or changes to study locations with users
 
 ## Product Vision Statement
 
