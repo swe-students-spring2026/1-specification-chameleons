@@ -114,4 +114,4 @@ The Product will increase students' knowledge of study spaces around NYU's campu
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Figma Prototype](https://www.figma.com/design/T48TOFOuQnPHSKlqkMhmNI/Chameleons-Project-1-Prototype?m=dev&t=0RAK4XWCxpiUlQJa-1)
