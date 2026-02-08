@@ -3,8 +3,6 @@
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
 ## Team members
-
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 - Adam Shin: [GitHub](https://github.com/aus2003)
 - Cary Ho: [GitHub](https://github.com/CakeOfThePans)
 - Calvin Pun: [GitHub](https://github.com/CalvinPun)
