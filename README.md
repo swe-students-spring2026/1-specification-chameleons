@@ -7,6 +7,7 @@ A little exercise to get started with the specification phase of the software de
 - Cary Ho: [GitHub](https://github.com/CakeOfThePans)
 - Calvin Pun: [GitHub](https://github.com/CalvinPun)
 - Qingyue Zhu: [GitHub](https://github.com/Kairiszqy)
+- Rehan Gupta: [GitHub](https://github.com/rehanguptaNYU)
 
 ## Stakeholders
 
