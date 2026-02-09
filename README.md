@@ -72,40 +72,41 @@ The Product will increase students' knowledge of study spaces around NYU's campu
 
 ## User Requirements
 ### NYU Students
-- As an NYU student, I want to view a map of nearby study spaces so that I can quickly find places close to my current building.
+- As an NYU student, I want to view a list of study locations so that I can choose where to study.
+- As an NYU student, I want to see individual study locations within a building so that I can find a specific place to study.
 - As an NYU student, I want to filter study locations by noise level, temperature, seating, and outlet availability so that I can find a space that fits my study needs.
-- As an NYU student, I want to see how crowded a study space is so that I can avoid wasting time walking to full locations.
-- As an NYU student, I want to read recent reviews from other students so that I know what to expect before arriving.
-- As an NYU student, I want to leave a review of a study space so that I can share my experience with others.
-- As an NYU student, I want to rate study spaces on comfort, noise, and usefulness so that comparisons are easy.
-- As an NYU student, I want to discover lesser-known study locations so that I have more options during peak hours.
-- As an NYU student, I want to save my favorite study spaces so that I can return to them later.
-- As an NYU student, I want to see photos of study locations so that I can visually assess the space.
+- As an NYU student, I want to read reviews from other students so that I know what to expect before arriving.
+- As an NYU student, I want to write a review for a study space so that I can share my experience with others.
+- As an NYU student, I want to rate study spaces on comfort, noise, and usefulness so that comparisons are easy and others can consider my opinion.
+- As an NYU student, I want to submit reviews anonymously so that I feel comfortable giving honest feedback.
+- As an NYU student, I want to report inappropriate or misleading reviews so that the platform remains trustworthy.
+- As an NYU student, I want to see confirmation when my review or report is submitted so that I know my action was successful.
 - As an NYU student, I want to see opening hours and access restrictions so that I don’t arrive when a space is closed.
 
 ### Admins
-- As an admin, I want to add new study locations so that students can discover all available study spaces on campus.
-- As an admin, I want to edit study location details such as hours, seating, and amenities so that information stays accurate.
-- As an admin, I want to remove or deactivate outdated study locations so that students are not misled.
-- As an admin, I want to moderate reviews so that inappropriate or irrelevant content is removed.
-- As an admin, I want to respond to reported issues so that students feel heard and the platform remains trustworthy.
-- As an admin, I want to verify crowd level data so that students can rely on real-time availability information.
+- As an admin, I want to log in to the admin dashboard so that I can manage the application.
+- As an admin, I want to add new buildings so that students can discover new study locations.
 - As an admin, I want to upload or approve photos of study locations so that visuals accurately represent the space.
-- As an admin, I want to highlight underutilized study spaces so that campus study traffic is more evenly distributed.
-- As an admin, I want to view analytics on study space usage so that I can identify trends and problem areas.
-- As an admin, I want to send updates or alerts about temporary closures or changes so that students are informed in advance.
+- As an admin, I want to edit study location details so that the displayed information stays accurate.
+- As an admin, I want to delete study locations so that outdated spaces are removed.
+- As an admin, I want to view reported reviews so that I can investigate issues.
+- As an admin, I want to accept reports so that inappropriate reviews are handled.
+- As an admin, I want to dismiss reports so that valid reviews remain visible.
+- As an admin, I want to remove suspicious ratings/comments so that all the information on the app is respectful and non-offensive.
+- As an admin, I want to see confirmation messages after actions so that I know changes were successful.
 
 ### Faculty
+- As a faculty member, I want to view a list of buildings with study spaces so that I can guide students.
+- As a faculty member, I want to view specific study locations within a building so that I can make precise recommendations.
+- As a faculty member, I want to see crowd levels at study locations so that I can advise students on availability.
+- As a faculty member, I want to read student reviews so that I understand student experiences.
+- As an faculty, I want to report suspicious ratings on study spaces so that misleading or inappropriate feedback can be reviewed and removed, ensuring that comparisons are fair and others can trust the ratings.
+- As a faculty member, I want to view ratings of study locations so that I can recommend high-quality spaces.
+- As a faculty member, I want to compare multiple study locations by reading their details so that I can suggest alternatives.
 - As a faculty member, I want to know which study spaces are quiet and reliable so that I can recommend them to students for focused work.
 - As a faculty member, I want to see student feedback and ratings on study spaces so that I can guide students toward the best locations.
-- As a faculty member, I want to identify trends in student study habits so that I can adjust my recommendations accordingly.
-- As a faculty member, I want to report maintenance or facility issues I observe in study locations so that they are resolved promptly.
-- As a faculty member, I want to filter study locations based on amenities like windows, outlets, or seating so that I can recommend spaces that meet student needs.
-- As a faculty member, I want to get notifications when popular study spaces are overcrowded or unavailable so that I can advise students to avoid them.
-- As a faculty member, I want to compare different study locations side by side so that I can make informed recommendations for different student needs.
-- As a faculty member, I want to share curated lists of study spaces for my classes or student groups so that students can quickly find suitable options.
-- As a faculty member, I want to see analytics on study space usage over time so that I can understand patterns and provide better guidance.
-- As a faculty member, I want to integrate student feedback into discussions about campus facilities so that improvements reflect real student needs.
+- As a faculty member, I want to see updated study location information so that my recommendations are accurate.
+
 ## Activity Diagrams
 
 [Activity Diagram](https://www.figma.com/design/OkGcVjCnbapdhi0hO56Efv/Chameleons_activitydiagram?node-id=0-1&t=6o8S6tbHxsitQpW7-1)
