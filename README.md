@@ -109,8 +109,10 @@ The Product will increase students' knowledge of study spaces around NYU's campu
 - As a faculty member, I want to see updated study location information so that my recommendations are accurate.
 
 ## Activity Diagrams
-[Student Activity Diagram 1](images/Student.png)
-[Admin Activity Diagram 1](images/Admin.png)
+Student Activity Diagram
+![Student Activity Diagram](images/Student.png)
+Admin Activity Diagram
+![Admin Activity Diagram](images/Admin.png)
 
 [Activity Diagram](https://www.figma.com/design/OkGcVjCnbapdhi0hO56Efv/Chameleons_activitydiagram?node-id=0-1&t=6o8S6tbHxsitQpW7-1)
 
