@@ -69,7 +69,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Product Vision Statement
 
-The Product will increase students' knowledge of study spaces around NYU's campus, allowing them to explore more confidently and broaden their experience.
+The product will increase students’ and faculty members’ awareness of study spaces around NYU’s campus, allowing them to hear from other users' feedback and make more informed decisions about where to study and collaborate.
 
 ## User Requirements
 ### NYU Students
