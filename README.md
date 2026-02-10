@@ -115,7 +115,6 @@ Admin Activity Diagram
 ![Admin Activity Diagram](images/Admin.png)
 Faculty Activity Diagram
 ![Faculty Activity Diagram](images/Faculty.png)
-[Activity Diagram](https://www.figma.com/design/OkGcVjCnbapdhi0hO56Efv/Chameleons_activitydiagram?node-id=0-1&t=6o8S6tbHxsitQpW7-1)
 
 ## Clickable Prototype
 
