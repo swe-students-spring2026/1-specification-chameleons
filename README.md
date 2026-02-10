@@ -87,7 +87,7 @@ The Product will increase students' knowledge of study spaces around NYU's campu
 ### Admins
 - As an admin, I want to log in to the admin dashboard so that I can manage the application.
 - As an admin, I want to add new buildings so that students can discover new study locations.
-- As an admin, I want to upload or approve photos of study locations so that visuals accurately represent the space.
+- As an admin, I want to upload or approve photos of study locations so that users can see the environment through visuals.
 - As an admin, I want to edit study location details so that the displayed information stays accurate.
 - As an admin, I want to delete study locations so that outdated spaces are removed.
 - As an admin, I want to view reported reviews so that I can investigate issues.
@@ -101,11 +101,11 @@ The Product will increase students' knowledge of study spaces around NYU's campu
 - As a faculty member, I want to view specific study locations within a building so that I can make precise recommendations.
 - As a faculty member, I want to see crowd levels at study locations so that I can advise students on availability.
 - As a faculty member, I want to read student reviews so that I understand student experiences.
-- As an faculty, I want to report suspicious ratings on study spaces so that misleading or inappropriate feedback can be reviewed and removed, ensuring that comparisons are fair and others can trust the ratings.
+- As an faculty, I want to report suspicious ratings on study spaces so that misleading or inappropriate feedback can be reviewed and removed, ensuring that the contents are fair and non_offensive.
 - As a faculty member, I want to view ratings of study locations so that I can recommend high-quality spaces.
 - As a faculty member, I want to compare multiple study locations by reading their details so that I can suggest alternatives.
 - As a faculty member, I want to know which study spaces are quiet and reliable so that I can recommend them to students for focused work.
-- As a faculty member, I want to see student feedback and ratings on study spaces so that I can guide students toward the best locations.
+- As a faculty member, I want to see student feedback and ratings on study spaces so that I can know what need to be improved.
 - As a faculty member, I want to see updated study location information so that my recommendations are accurate.
 
 ## Activity Diagrams
